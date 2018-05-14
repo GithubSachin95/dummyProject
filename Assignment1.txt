@@ -1,0 +1,60 @@
+{
+  "Topwear" : [{
+                "id" : 1,
+                "gender" : "male",
+				"stock" : 20,
+                "type" : "shirt",
+                "brand" : "Roadster",
+                "img" : "https://flipkart.com/roadster/shirts/001.jpeg",
+                "colors": [
+                            "black",
+							"white" ],
+				"occasion" : "party",
+				"size" : ["M"
+									,"L"]
+				} ,
+				{
+				"id" : 2,
+                                "gender" : "male"
+                                "stock" : 30,
+                                "type" : "tshirt",
+                                "brand" : "Roadster",
+                                "img" : "https://flipkart.com/roadster/tshirts/002.jpeg",
+                "colors": [
+							"black",
+                            "red",
+							"green" ],
+                "occasion" : "office",
+				"size" : ["L",
+                          "XL"]
+
+                } ,
+                {
+                "id" : 3,
+                "gender" : "female",
+                "stock" : 4 ,
+                "type" : "shirt" ,
+                "brand" : "Highlander",
+                "img" : "https://flipkart.com/highlander/shirts/001.jpeg",
+                "colors": [
+                           "red",
+                            "orange" ],
+                "occasion" : "office",
+                "size" : "M"
+                } ,
+                {
+                "id" : 4,
+				"gender" : "female"
+                "stock" : 22,
+                "type" : "skirt"
+                "brand" : "Highlander",
+                "img" : "https://flipkart.com/highlander/skirts/002.jpeg",
+                 "colors": [
+                            "white",
+                            "orange" ],
+                "occasion" : "party",
+                "size" : ["S" ,
+                          "M"],
+                }],
+
+  }      
