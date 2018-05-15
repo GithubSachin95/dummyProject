@@ -1,3 +1,6 @@
+
+
+
 let a =[1,5,0,5,7,10,91,9]
 
 //function for bubble sort
